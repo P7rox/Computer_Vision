@@ -1,0 +1,1 @@
+- Extract ssd300_mAP_77.43_v2.rar before executing the python code.
